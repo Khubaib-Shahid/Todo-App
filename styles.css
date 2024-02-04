@@ -152,6 +152,10 @@
     .forcheck {
         padding-top: 19px;
     }
+    .ccheck {
+        width: 24px;
+        padding-top: 1px !important;
+    }
 }
 @media only screen and (max-width: 333px) {
     * {
